@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello World!!
+### I'm Dyego 👋
+## Dyego por Dyego
+  Tenho 22 anos, sou programador e analista de dados, com foco na parte de análise de dados e Machine Learning. Estou no Sétimo periodo de ciências da computação, pretendo fazer uma pós-gradução em Inteligência Artificial. Gosto de esportes como malhar e muay thai.
 
-<!--
-**DyegoTkrD/DyegoTkrD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##Sobre mim:
+- 🔭 Atualmente trabalho na TIM BRASIL, sou analista de B.I e DEV
 
-Here are some ideas to get you started:
+- 🌱 Estou aprendendo Machine Learning, AWS e Desenvolvimento WEB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Eu posso te ajudar com: SQL, Power BI, Python e Django.
+
+- 📫 Pode me contatar pelo meu número: 24999176635
+
