@@ -2,7 +2,7 @@
 
 **Engenharia de dados** · Python · SQL · BigQuery · Apache Airflow
 
-[dyegoseabra.com.br](https://dyegoseabra.com.br) · [LinkedIn](https://www.linkedin.com/in/dyegoseabradata) · dyego.tkrd@gmail.com
+[dyegoseabra.com.br](https://dyegoseabra.com.br) · [LinkedIn](https://www.linkedin.com/in/dyegoseabradata) · [WhatsApp](https://wa.me/5524999176635) · dyego.tkrd@gmail.com
 
 ---
 
@@ -22,7 +22,7 @@ Gosto de construir o que tira trabalho manual do caminho: pipelines de carga com
 |---|---|---|
 | [personal-finances](https://github.com/DyegoTkrD/personal-finances) | Análise de gastos, previsão com ARIMA/SARIMAX e segmentação com K-Means + PCA | Python, pandas, statsmodels, scikit-learn |
 | [Deteccao-Sonolencia](https://github.com/DyegoTkrD/Deteccao-Sonolencia) | Detecção de sonolência pela câmera, com EAR, MAR e contagem de piscadas | Python, OpenCV, MediaPipe |
-| [Site pessoal](https://dyegoseabra.com.br) | Portfólio em PT e EN, página estática servida por nginx | HTML, CSS, JavaScript |
+| [Site pessoal](https://dyegoseabra.com.br) ([código](https://github.com/DyegoTkrD/portifolio)) | Portfólio em PT e EN, página estática servida por nginx | HTML, CSS, JavaScript |
 
 ### Ferramentas
 
