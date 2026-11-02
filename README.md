@@ -26,10 +26,10 @@ Gosto de construir o que tira trabalho manual do caminho: pipelines de carga com
 
 ### Ferramentas
 
-**Dados:** Python, SQL, BigQuery, Apache Airflow, PostgreSQL, ETL, modelagem de dados
-**BI:** Power BI, Looker Studio, Metabase
-**Software:** FastAPI, TypeScript, Docker, Git, GitHub Actions, Linux
-**IA:** LLMs e agentes com n8n
+- **Dados:** Python, SQL, BigQuery, Apache Airflow, PostgreSQL, ETL, modelagem de dados
+- **BI:** Power BI, Looker Studio, Metabase
+- **Software:** FastAPI, TypeScript, Docker, Git, GitHub Actions, Linux
+- **IA:** LLMs e agentes com n8n
 
 ---
 
